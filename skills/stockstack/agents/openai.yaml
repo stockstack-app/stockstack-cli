@@ -1,0 +1,4 @@
+display_name: StockStack
+short_description: Japanese stock fundamental analysis CLI
+icon: chart_with_upwards_trend
+policy: read-only
