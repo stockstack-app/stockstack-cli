@@ -1,6 +1,6 @@
 # OpenFiling CLI
 
-日本株ファンダメンタル分析ツール [OpenFiling](https://openfiling.app) の CLI クライアント。
+日本企業の財務データ基盤 [OpenFiling](https://openfiling.app) の CLI クライアント。
 
 ## Install
 
